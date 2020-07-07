@@ -1,0 +1,81 @@
+2002-2007	1987-1991
+vladimir_putin	boris_yeltsin
+jacques_chirac	francois_mitterrand
+ipod	walkman
+facebook	usenet
+linux	unix
+spam	junk_mail, autodialers
+spreadsheet	database, spreadsheet
+email	messages, mail, fax, electronic_mail
+superman	superman
+pixar	tristar, disney,  sony,mca, paramount_pictures, carolco_pictures, mgm, warner_brothers
+euro	deutsche_marks, lira, francs
+myanmar	burma,myanmar
+silvio_berlusconi	giovanni_goria, andreotti
+angela_merkel	kohl
+tony_blair	thatcher
+shinzo_abe	takeshita
+junichiro_koizumi	kaifu, uno
+vajpayee	mahatma_gandhi
+singh	mahatma_gandhi
+jacques_rogge	samaranch
+fridge	fridge, freezer, refrigerator, ice_cubes
+nato	nato
+google	ibm, microsoft, matsushita, intel
+boeing	boeing, airbus, mcdonnell_douglas
+serbia	yugoslavia
+croatia	yugoslavia
+macedonia	yugoslavia
+montenegro	yugoslavia
+kosovo	yugoslavia
+slovenia	yugoslavia
+bosnia	yugoslavia
+bush	ronald_reagan
+bush	bush
+blatter	joao_havelange
+berlin	bonn, berlin
+czech_republic	czechoslovakia
+slovakia	czechoslovakia
+microwave	microwave_oven, microwave
+scanner	scanner
+letter	telegram,letter
+yahoo	ibm, microsoft, intel
+dvd	compact_disk,videocassette
+compact_disk	cassette
+flash_drive	floppy_drive,diskette
+hard_disk	diskette
+dvdrom	floppy_disk,diskette
+cdrom_drive	floppy_disk
+dvd	compact_disk
+usb	floppy_disk,diskette,35inch_floppy
+mobile_phone	pager
+mp3	compact_disk,cassettes,cdrom
+smartphone	pager,cellular_phone,cellular_telephone
+
+2002-2007	1992-1996
+silvio_berlusconi	lamberto_dini,silvio_berlusconi,ciampi
+angela_merkel	helmut_kohl,chancellor_kohl
+tony_blair	john_major
+aznar	felipe_gonzalez
+zapatero	felipe_gonzalez
+shinzo_abe	kaifu
+junichiro_koizumi	miyazawa,hosokawa,hata,tomiichi_murayama,hashimoto
+vajpayee	mahatma_gandhi
+john_howard	paul_keating
+bush	bill_clinton,bush
+kofi_annan	boutros_ghali
+sepp_blatter	joao_havelange
+jacques_rogge	samaranch
+google	microsoft,netscape,ibm,att
+nato	nato
+czech	czechoslovakia
+slovakia	czechoslovakia
+ipod	cd_player
+wifi	isdn,dialup,modem,ethernet
+internet_explorer	netscape_navigator, netcruiser
+safari	netscape_navigator, netcruiser
+firefox	netcruiser,netscape_navigator
+amazon	yahoo
+berlin	bonn
+mp3	cdrom,compact_disk,laser_disk
+usb	floppy_disk,cdrom,compact_disk,laser_disk
